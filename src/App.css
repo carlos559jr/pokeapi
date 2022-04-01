@@ -185,7 +185,7 @@ a p{
   box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.15);
   border-radius: 1rem;
   width: 82vw;
-  margin-left: 2.5rem;
+  margin-left: 8vw;
   font-family: 'Roboto';
   font-style: normal;
   color: #416460;
@@ -270,6 +270,10 @@ a p{
     display: flex;
     align-items: center;
     justify-content: space-around;
+  }
+
+  .pokemon-info{
+  
   }
 
 }
